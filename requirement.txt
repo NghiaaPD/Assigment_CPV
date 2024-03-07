@@ -1,0 +1,8 @@
+opencv-python
+scipy
+scikit-learn
+scikit-image
+matplotlib
+pandas
+seaborn
+Pillow
